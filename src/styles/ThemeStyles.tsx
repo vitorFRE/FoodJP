@@ -9,7 +9,7 @@ const theme = {
     White: '#FBFBFB',
   },
   container: {
-    maxWidth: '1200px',
+    maxWidth: '1228px',
     padding: '0 1rem',
     margin: '0 auto',
   },
